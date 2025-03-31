@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hey, my name is Jeremy, and I am a database administrator!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremytkurtz) 
@@ -11,5 +14,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jerkurtz&icon=8&color=0)](https://visitcount.itsvg.in)
+
 
 
