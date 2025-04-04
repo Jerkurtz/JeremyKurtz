@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, my name is Jeremy, and I am a database administrator!
+Hey, my name is Jeremy, and I am a Database Administrator!
 
 
 ## 🌐 Socials:
